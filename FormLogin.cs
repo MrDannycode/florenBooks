@@ -71,5 +71,15 @@ namespace WinFormsApp2FlorenBooksV2
                 buttonLogin_Click(sender, e);
             }
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp2FlorenBooksV2
+namespace WinFormsApp2FlorenBooksV2
 {
     partial class Form1
     {

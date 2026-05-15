@@ -28,6 +28,6 @@ namespace WinFormsApp2FlorenBooksV2
         // DECLARATII CONTROALE - completate de Designer
         // =====================================================================
         internal MenuStrip menuStrip1;
-        internal Label labelWelcome;
+
     }
 }

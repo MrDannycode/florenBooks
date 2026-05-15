@@ -25,26 +25,26 @@ namespace WinFormsApp2FlorenBooksV2
 
         #endregion
 
-        internal TextBox textBoxMemberId;
-        internal TextBox textBoxName;
-        internal TextBox textBoxPhone;
-        internal TextBox textBoxEmail;
-        internal TextBox textBoxAddress;
-        internal TextBox textBoxDateJoined;
-        internal TextBox textBoxMemberType;
-        internal TextBox textBoxMaxBooks;
+
+
+
+
+
+
+
+
         internal RadioButton radioButtonMale;
         internal RadioButton radioButtonFemale;
-        internal Button buttonSave;
-        internal Button buttonClear;
-        internal Label labelMemberId;
-        internal Label labelName;
-        internal Label labelGender;
-        internal Label labelPhone;
-        internal Label labelEmail;
-        internal Label labelAddress;
-        internal Label labelDateJoined;
-        internal Label labelMemberType;
-        internal Label labelMaxBooks;
+
+
+
+
+
+
+
+
+
+
+
     }
 }

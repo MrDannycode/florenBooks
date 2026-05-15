@@ -25,13 +25,13 @@ namespace WinFormsApp2FlorenBooksV2
 
         #endregion
 
-        internal TextBox textBoxSearchId;
-        internal DataGridView dataGridView1;
-        internal Button buttonSearch;
-        internal Button buttonShowAll;
-        internal Button buttonShowActive;
-        internal Button buttonShowReturned;
-        internal Label labelSearchId;
-        internal Label labelTitle;
+
+
+
+
+
+
+
+
     }
 }
